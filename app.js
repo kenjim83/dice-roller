@@ -19,3 +19,15 @@ Bonus:
 Add an output below which displays the sum of all the dice
 
 */
+
+
+$(document).ready(function() {
+    // Your code goes here..
+
+
+
+
+
+
+
+});
